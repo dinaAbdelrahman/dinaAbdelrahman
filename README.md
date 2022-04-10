@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Architecture, DevOps**
 
-- 💬 Ask me about **Machine learning, Data Architecture**
+- 💬 Ask me about **Machine learning, Data Architecture, Data engineering**
 
 - 📫 How to reach me **dina.mowfie@gmail.com**
 
